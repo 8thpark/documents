@@ -1,11 +1,11 @@
 ```yaml
-Last updated: 7th Aug 2024
+Date: 7th Aug 2024
 Version: v0.1.0
 ```
 
 ## Scope
 
-These policies apply exclusively to the paid version of DayLang available at `http://daylang.com`.
+These policies apply exclusively to the paid version of DayLang available at `https://daylang.com`.
 They do not apply to self-hosted instances of the open-source version available at
 `https://github.com/8thpark/daylang`, which is governed by the GNU Affero General Public License v3.0
 (AGPL-3.0). Users of the self-hosted version should refer to the `LICENSE` file in the GitHub
@@ -23,7 +23,7 @@ repository for applicable terms.
   and distribute that content on the platform.
 - DayLang is provided "as is" without warranties.
 - DayLang may modify or discontinue the service at any time, with reasonable notice to users for
-  significant changes or discontinuation.
+  discontinuation.
 - Users agree to use the service in compliance with applicable laws.
 - We are not responsible for any third-party content linked from our service.
 - You agree not to attempt to interfere with our service's network or security features.
@@ -53,7 +53,6 @@ repository for applicable terms.
 - Analytics data is stored securely on EU-based servers.
 - User data is stored on US-based servers via Railway.app.
 - Users can request data deletion at any time by emailing team@8thpark.com.
-- Your data may be transferred to and processed in the United States.
 - We retain data as long as your account is active or as needed to provide services.
 - We implement reasonable security measures to protect user data.
 
@@ -78,5 +77,5 @@ team@8thpark.com.
 ## Changes
 
 Updates to these policies may happen from time to time. We will notify users of any significant
-changes by posting a notice on our website or sending an email to the email address associated with
-their account.
+changes by posting a notice on our website or sending an email to the address associated with their
+account.
